@@ -4,7 +4,7 @@
 &nbsp; &nbsp;
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sugatoray/heartrate?style=flat&logo=github)](https://github.com/sugatoray/heartrate)
 &nbsp; &nbsp; 
-[![Codecov](https://codecov.io/gh/sugatoray/heartrate/branch/master/graph/badge.svg)](https://codecov.io/gh/codecov/example-python)
+[![Codecov](https://codecov.io/gh/sugatoray/heartrate/branch/master/graph/badge.svg)](https://codecov.io/gh/sugatoray/heartrate)
 
 # heartrate
 
