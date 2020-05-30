@@ -1,3 +1,11 @@
+[![GitHub](https://img.shields.io/github/license/sugatoray/heartrate.svg?style=flat&logo=github)](https://github.com/sugatoray/heartrate/blob/master/LICENSE)
+&nbsp; &nbsp;
+[![GitHub last commit](https://img.shields.io/github/last-commit/sugatoray/heartrate?style=flat&logo=github)](https://github.com/sugatoray/heartrate)
+&nbsp; &nbsp;
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sugatoray/heartrate?style=flat&logo=github)](https://github.com/sugatoray/heartrate)
+&nbsp; &nbsp; 
+[![Codecov](https://codecov.io/gh/sugatoray/heartrate/branch/master/graph/badge.svg)](https://codecov.io/gh/codecov/example-python)
+
 # heartrate
 
 This library offers a simple real time visualisation of the execution of a Python program:
